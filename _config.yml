@@ -37,7 +37,7 @@ improve_content: https://github.com/AlejandroKantor/resultados_pe/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/AlejandroKantor/resultados_pe/images/'
+urlimg: 'https://AlejandroKantor.github.com/resultados_pe/images/'
 
 
 # Logo size is 600x80 pixels
@@ -101,7 +101,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: AlejandroKantor     # Default author for pages
   -
     scope:
       path: ""
@@ -110,7 +110,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: AlejandroKantor     # Default author for posts
 
 
 
