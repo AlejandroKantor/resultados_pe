@@ -20,7 +20,7 @@ show_meta: false
 breadcrumb: true
 ---
 
-<iframe src="https://plot.ly/~AlejandroKantor/202.embed" style="width: 125%" frameBorder="0" height="600" scrolling="no" seamless="seamless"
+<iframe src="https://plot.ly/~AlejandroKantor/202.embed" style="width: 125%" frameBorder="0" height="500" scrolling="no" seamless="seamless"
 class="myIframe">
 <p>Hi SOF</p>
 </iframe>
