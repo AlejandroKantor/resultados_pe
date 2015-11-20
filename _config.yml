@@ -12,11 +12,11 @@ title: "Resultados.pe"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Resultados en gráficos dinámicos"
+slogan: "Resultados en gráficos interactivos"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "En »Resultados.pe« analizamos datos públicos peruanos mostrando nuestros resultados a través de gráficos dinámicos"
+description: "En »Resultados.pe« analizamos datos públicos peruanos mostrando nuestros resultados a través de gráficos interactivos"
 
 # Main author of the website
 # See > authors.yml
@@ -24,7 +24,7 @@ author: AlejandroKantor
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://AlejandroKantor.github.io/resultados_pe'
+url: 'https://resultados.pe'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -37,7 +37,7 @@ improve_content: https://github.com/AlejandroKantor/resultados_pe/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://AlejandroKantor.github.io/resultados_pe/images/'
+urlimg: 'https://resultados.pe/images/'
 
 
 # Logo size is 600x80 pixels
@@ -166,11 +166,11 @@ msapplication_tilecolor:                "#fabb00"
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
-og_locale:                          "en_EN"
+og_image:                           "https://alejandrokantor.github.io/resultados_pe/assets/img/logo.png"
+og_locale:                          "es_PE"
 og_type:                            "website"
-og_title:                           "Feeling Responsive – A Responsive Theme for Jekyll"
-og_description:                     "Feeling Responsive is built on the fabulous Foundation Framework and comes with lots of features to show your content right."
+og_title:                           "Resultados en gráficos interactivos"
+og_description:                     "En »Resultados.pe« analizamos datos públicos peruanos mostrando nuestros resultados a través de gráficos interactivos."
 # og_url:                           ""
 # og_site_name:                     ""
 
