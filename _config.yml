@@ -241,5 +241,5 @@ google_analytics_tracking_id: UA-60112281-1
 
 # tawkto_embed_uri:
 	
-gems:
-    - jekyll-redirect-from
+#========================================
+
