@@ -2,11 +2,11 @@
 layout: page
 title: "Acerca de Resultados.pe"
 subheadline: "Análisis interactivo"
-teaser: "Analizamos datos públicos peruanos mostrando nuestros resultados a través de gráficos dinámicos."
+teaser: "Analizamos datos públicos peruanos mostrando nuestros resultados a través de gráficos interactivos."
 permalink: "/info/"
 ---
 
-*Resultados.pe* es un proyecto que tiene como fin proveer un análisis a datos públicos peruanos. Nos enfocamos en crear gráficos dinámicos que le sirvan al lector interactuar con los datos. 
+*Resultados.pe* es un proyecto que tiene como fin proveer un análisis interactivos de datos públicos peruanos. Nos enfocamos en crear gráficos dinámicos que le sirvan al lector interactuar con los datos. 
 
 Esta página ha sido creada con varios componentes de software libre. A continuación hacemos mención y agradecemos a éstos.
 
