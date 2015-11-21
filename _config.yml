@@ -43,7 +43,7 @@ improve_content: https://github.com/AlejandroKantor/resultados_pe/edit/gh-pages
 #
 #urlimg: 'https://alejandrokantor.github.io/resultados_pe/images/'
 #urlimg: 'https://resultados.pe/images/'
-#urlimg: '/images/'
+urlimg: '/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
