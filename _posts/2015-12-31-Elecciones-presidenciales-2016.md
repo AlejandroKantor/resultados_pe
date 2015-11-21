@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Encuestas Presidenciales 2016"
-subheadline:  "Elecciones presidenciales"
+subheadline:  "Elecciones presidenciales Peru"
 teaser: "Presentamos los resultados de las encuestas para las elecciones presidenciales 2016"
 header:
   image_fullwidth: header_palacio_gobierno.jpg
