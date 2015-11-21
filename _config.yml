@@ -38,7 +38,7 @@ improve_content: https://github.com/AlejandroKantor/resultados_pe/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'alejandrokantor.github.io/resultados_pe/images/'
+urlimg: 'https://alejandrokantor.github.io/resultados_pe/images/'
 #urlimg: 'https://resultados.pe/images/'
 
 
