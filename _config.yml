@@ -24,8 +24,9 @@ author: AlejandroKantor
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://alejandrokantor.github.io/resultados_pe'
+#url: 'https://alejandrokantor.github.io/resultados_pe'
 #url: 'https://resultados.pe'
+url: ''
 baseurl: ''
 # no se si lo siguiente es util
 # enforce_ssl: 'resultados.pe'
@@ -40,9 +41,9 @@ improve_content: https://github.com/AlejandroKantor/resultados_pe/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://alejandrokantor.github.io/resultados_pe/images/'
+#urlimg: 'https://alejandrokantor.github.io/resultados_pe/images/'
 #urlimg: 'https://resultados.pe/images/'
-
+#urlimg: '/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -240,3 +241,6 @@ google_analytics_tracking_id: UA-60112281-1
 # used in _includes/footer_scripts
 
 # tawkto_embed_uri:
+	
+gems: 
+	- jekyll-redirect-from
