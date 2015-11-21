@@ -26,8 +26,10 @@ author: AlejandroKantor
 #
 #url: 'https://alejandrokantor.github.io/resultados_pe'
 url: 'https://resultados.pe'
-enforce_ssl: 'resultados.pe'
+
 baseurl: ''
+# no se si lo siguiente es util
+# enforce_ssl: 'resultados.pe'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages

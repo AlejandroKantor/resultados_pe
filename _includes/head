@@ -1,9 +1,4 @@
 	<meta charset="utf-8" />
-    <script type="text/javascript">
-      var host = "resultados.pe";
-      if ((host == window.location.host) && (window.location.protocol != "https:"))
-          window.location.protocol = "https";
-    </script>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>{% if page.meta_title %}{{ page.meta_title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 	<link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/assets/css/styles_feeling_responsive.css" />
