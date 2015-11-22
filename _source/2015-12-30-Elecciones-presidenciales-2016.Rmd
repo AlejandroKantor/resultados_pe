@@ -23,7 +23,7 @@ breadcrumb: true
 
 
 ```{r, results='asis',echo= FALSE,cache=FALSE,warning=FALSE,message=FALSE}
-fecha_reciente <- "10 Nov 2015"
+fecha_reciente <- "13 de noviembre 2015"
 ```
 
 
