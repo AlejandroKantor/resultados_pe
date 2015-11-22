@@ -1,0 +1,24 @@
+---
+layout: page
+title:  "Prueba"
+subheadline:  "Prueba"
+teaser: "Presentamos los resultados de las encuestas para las elecciones presidenciales 2016"
+categories:
+    - "seguimiento"
+tags:
+    - seguimiento
+    - Elecciones presidenciales
+    - 2016 
+show_meta: false
+breadcrumb: true
+---
+
+
+
+```{r, results='asis',echo= FALSE,cache=FALSE,warning=FALSE,message=FALSE}
+1+1
+```
+
+
+
+
