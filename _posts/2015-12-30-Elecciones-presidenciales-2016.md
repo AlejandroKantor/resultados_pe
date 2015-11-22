@@ -21,10 +21,6 @@ show_meta: false
 breadcrumb: true
 ---
 
-
-
-
-
 Actualizado el 13 de noviembre 2015
 
 <iframe src="https://plot.ly/~AlejandroKantor/202.embed" style="width: 125%" frameBorder="0" height="500" scrolling="no" seamless="seamless"
@@ -35,6 +31,7 @@ class="myIframe">
 <script type="text/javascript" language="javascript"> 
 $('.myIframe').css('height', $(window).height()+'px');
 </script>
+
 __Nota 1__: Coloque el cursor sobre los puntos y líneas para más información sobre las encuestas y estimaciónes.
 
 __Nota 2__: Para esconder o mostrar los datos de un candidato precione sobre su nombre en nombre en la leyenda.
