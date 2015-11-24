@@ -38,9 +38,9 @@ $('.myIframe').css('height', $(window).height()+'px');
 
 __Nota 1__: Coloque el cursor sobre los puntos y líneas para ver más información sobre las encuestas y estimaciónes.
 
-__Nota 2__: Para esconder o mostrar los datos de un candidato precione sobre su nombre en la leyenda.
+__Nota 2__: Para esconder o mostrar los datos de un candidato presione sobre su nombre en la leyenda.
 
-__Nota 3__: Para ampliar una parte del gráfico, mantenga pulsado el boton izquierdo y seleccione el área. 
+__Nota 3__: Para ampliar una parte del gráfico, mantenga pulsado el botón izquierdo y seleccione el área. 
 <!--<iframe height="600" id="igraph" scrolling="no" seamless="seamless" src="https://plot.ly/~AlejandroKantor/202.embed" width="800" frameBorder="0"></iframe> -->
 
 
