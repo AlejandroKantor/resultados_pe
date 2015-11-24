@@ -28,6 +28,7 @@ author: AlejandroKantor
 #url: 'https://resultados.pe'
 url: ''
 baseurl: ''
+url_exact: 'https://resultados.pe'
 # no se si lo siguiente es util
 # enforce_ssl: 'resultados.pe'
 
