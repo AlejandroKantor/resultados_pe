@@ -1,3 +1,6 @@
 _site/
 .sass-cache/
 .Rproj.user
+no_incluidos/
+build.R
+resultados_pe.Rproj

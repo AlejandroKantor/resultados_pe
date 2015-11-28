@@ -7,7 +7,7 @@
 
 url: 'http://localhost:4000'
 urlimg: 'http://localhost:4000/images/'
-url_exact: 'http://localhost:4000'
+#url_exact: 'http://localhost:4000'
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
   style: :expanded
