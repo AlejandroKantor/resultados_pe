@@ -7,13 +7,13 @@
 layout: frontpage
 header:
   image_fullwidth: header_parque_kennedy.jpg
-  caption: Image by DiNo
+  caption: Imagen por DiNo/flickr
   caption_url: "https://www.flickr.com/photos/tafs/"
-#widget1:
-#  title: "Elecciones presidenciales 2016"
-#  url: '/seguimiento/Elecciones-presidenciales-2016/'
-#  image: graficoEncuestas_600x450.jpg
-#  text: 'Presentamos los resultados de las encuestas presidenciales 2016 a través de gráficos interactivos.'
+widget1:
+  title: "Elecciones Presidenciales Perú 2016"
+  url: '/seguimiento/Elecciones-presidenciales-2016/'
+  image: graficoEncuestas_600x450.jpg
+  text: 'Presentamos los resultados de las encuestas presidenciales 2016 a través de gráficos interactivos.'
 
 
 permalink: /index.html
