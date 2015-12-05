@@ -26,10 +26,11 @@ author: AlejandroKantor
 #
 #url: 'https://alejandrokantor.github.io/resultados_pe'
 #url: 'https://resultados.pe'
-url: ''
+url: 'http://resultados.pe'
 baseurl: ''
-url_exact: 'resultados.pe'
-url_slash: '/ '
+#url_exact: 'resultados.pe'
+#url_slash: '/ '
+
 # no se si lo siguiente es util
 # enforce_ssl: 'resultados.pe'
 
