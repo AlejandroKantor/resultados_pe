@@ -177,11 +177,11 @@ apple-touch-icon-180x180-precomposed:   "apple-touch-icon-152x152-precomposed.pn
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           "https://alejandrokantor.github.io/resultados_pe/assets/img/logo.png"
+og_image:                           "http://resultados.pe/assets/img/logo.png"
 og_locale:                          "es_PE"
 og_type:                            "website"
 og_title:                           "Resultados en gráficos interactivos"
-og_description:                     "En »Resultados.pe« analizamos datos públicos peruanos mostrando nuestros resultados a través de gráficos interactivos."
+#og_description:                     "En »Resultados.pe« analizamos datos públicos peruanos mostrando nuestros resultados a través de gráficos interactivos."
 # og_url:                           ""
 # og_site_name:                     ""
 
