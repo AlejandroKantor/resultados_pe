@@ -181,7 +181,7 @@ og_image:                           "http://resultados.pe/assets/img/logo.png"
 og_locale:                          "es_PE"
 og_type:                            "website"
 og_title:                           "Resultados en gráficos interactivos"
-#og_description:                     "En »Resultados.pe« analizamos datos públicos peruanos mostrando nuestros resultados a través de gráficos interactivos."
+og_description:                     ""
 # og_url:                           ""
 # og_site_name:                     ""
 

@@ -8,10 +8,10 @@
 #   class: icon-twitter
 #   title: "Immer das Neuste von Phlow gibt es auf Twitter"
 #
-# - name: Facebook
-#   url: http://www.facebook.com/phlow.media
-#   class: icon-facebook
-#   title: "Lass uns Freunde sein!"
+ - name: Facebook
+   url: http://www.facebook.com/resultados.pe
+   class: icon-facebook
+   title: "Sigue Resultados.pe en Facebook"
 #
 # - name: Soundcloud
 #   url: http://soundcloud.com/phlow
