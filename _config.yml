@@ -46,7 +46,7 @@ improve_content: https://github.com/AlejandroKantor/resultados_pe/edit/gh-pages
 #
 #urlimg: 'https://alejandrokantor.github.io/resultados_pe/images/'
 #urlimg: 'https://resultados.pe/images/'
-urlimg: '/images/'
+urlimg: 'http://resultados.pe/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -77,7 +77,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: "es"
+language: "es_PE"
 
 
 # Used › default.html front-matter and compress.html
@@ -165,7 +165,7 @@ apple-touch-icon-76x76-precomposed:     "apple-touch-icon-76x76-precomposed.png"
 apple-touch-icon-72x72-precomposed:     "apple-touch-icon-72x72-precomposed.png"
 apple-touch-icon-precomposed:           "apple-touch-icon-precomposed.png"
 msapplication_tileimage:                "msapplication_tileimage.png"               # Size 144x144
-msapplication_tilecolor:                "#fabb00"
+msapplication_tilecolor:                "#ffffff"
 
 
 #       ______                __                __
