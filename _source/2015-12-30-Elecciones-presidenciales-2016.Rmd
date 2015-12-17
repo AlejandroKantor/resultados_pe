@@ -3,6 +3,7 @@ layout: page
 title:  "Elecciones Presidenciales 2016"
 subheadline:  "Resultados de las encuestas"
 teaser: "Presentamos los resultados de las encuestas de las elecciones presidenciales 2016."
+description: "Presentamos los resultados de las encuestas de las elecciones presidenciales 2016."
 header:
   image_fullwidth: header_palacio_gobierno.jpg
   caption: Imagen por DiNo/flickr
