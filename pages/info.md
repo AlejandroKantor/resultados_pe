@@ -6,19 +6,24 @@ teaser: "Analizamos datos públicos peruanos mostrando nuestros resultados a tra
 permalink: "/info/"
 ---
 
-*Resultados.pe* es un proyecto que tiene como fin proveer un análisis interactivos de datos públicos peruanos. Nos enfocamos en crear gráficos dinámicos que le sirvan al lector interactuar con los datos. 
+*Resultados.pe* es un proyecto que tiene como fin proveer un análisis interactivos de datos públicos peruanos. Nos enfocamos en crear gráficos dinámicos que permiten al lector interactuar con los datos. 
 
 Esta página ha sido creada con varios componentes de software libre. A continuación hacemos mención y agradecemos a éstos.
 
 
 ## Agradecimientos
 
+
 * Utilizamos la plantilla [Feeling Responsive][8] de [phlow][1]
 * La página es alojada por [Github][6]
-* La página es compilada a través de [Jekyll][2] [Pandoc][9] y [knitr][5]
+* La página es compilada a través de [Jekyll][2], [Pandoc][9] y [knitr][5]
 * Los datos son manipulados y análizados utilizando [R][3] y [Rstudio][4]
 * Los gráficos son creados utilizando [R][3] y [Plotly][7] 
 
+
+## Autor principal
+
+La página es mantenida por Alejandro Kantor Benavides.
 
 
  [1]: http://phlow.de/
@@ -30,4 +35,6 @@ Esta página ha sido creada con varios componentes de software libre. A continua
  [7]: https://plot.ly/
  [8]: https://phlow.github.io/feeling-responsive/
  [9]: http://pandoc.org
- [10]: #
+ [10]: https://www.facebook.com/resultados.pe
+ 
+ 
