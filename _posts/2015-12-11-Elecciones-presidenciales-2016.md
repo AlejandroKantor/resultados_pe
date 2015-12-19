@@ -2,8 +2,8 @@
 layout: page
 title:  "Elecciones Presidenciales 2016"
 subheadline:  "Resultados de las encuestas"
-teaser: "Presentamos los resultados de las encuestas de las elecciones presidenciales 2016."
-description: "Presentamos los resultados de las encuestas de las elecciones presidenciales 2016."
+teaser: "Presentamos los resultados de las encuestas de las elecciones presidenciales Perú 2016."
+description: "Presentamos los resultados de las encuestas de las elecciones presidenciales Perú 2016."
 header:
   image_fullwidth: header_palacio_gobierno.jpg
   caption: Imagen por DiNo/flickr
@@ -14,7 +14,6 @@ image:
 categories:
     - "seguimiento"
 tags:
-    - seguimiento
     - Elecciones presidenciales
     - 2016 
     - Perú
@@ -25,8 +24,9 @@ breadcrumb: true
 
 
 
+El siguiente gráfico combina las encuestas de intensión de voto. Actualizado al 11-12-2015.
 
-Actualizado el 11-12-2015
+
 
 <iframe src="https://plot.ly/~AlejandroKantor/202.embed?link=False"  style="width: 125%" frameBorder="0" height="500" scrolling="no" seamless="seamless" 
 class="myIframe">
@@ -47,8 +47,7 @@ __Nota 3__: Para ampliar una parte del gráfico, mantenga pulsado el botón izqu
 <!--
 #```{r ,results='asis', warning=FALSE, echo=FALSE, comment=NA}
 #
-#js_t_1 <- dTable(dt_encuestas, sPaginationType = "full_numbers")
+#js_t_1 <- dTable(dt_wide, sPaginationType = "full_numbers")
 #js_t_1$show('iframe', cdn = TRUE)
 #```
 -->
-
