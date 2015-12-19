@@ -13,7 +13,7 @@ widget1:
   title: "Elecciones Presidenciales Perú 2016"
   url: '/seguimiento/Elecciones-presidenciales-2016/'
   image: graficoEncuestas_600x450.jpg
-  text: 'Presentamos los resultados de las encuestas presidenciales 2016 a través de gráficos interactivos.'
+  text: "Presentamos los resultados de las encuestas de las elecciones presidenciales Perú 2016."
 
 
 permalink: /index.html
