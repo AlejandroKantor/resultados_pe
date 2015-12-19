@@ -16,7 +16,7 @@ slogan: "Resultados en gráficos interactivos"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "En »Resultados.pe« analizamos datos públicos peruanos mostrando nuestros resultados a través de gráficos interactivos"
+description: "En »Resultados.pe« analizamos datos públicos peruanos a través de gráficos interactivos"
 
 # Main author of the website
 # See > authors.yml
@@ -229,7 +229,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-60112281-1
+google_analytics_tracking_id: UA-71574787-1
 
 
 
