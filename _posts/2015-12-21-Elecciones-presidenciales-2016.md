@@ -24,7 +24,7 @@ breadcrumb: true
 
 
 
-El siguiente gráfico combina las encuestas de intensión de voto. Actualizado al 11-12-2015.
+El siguiente gráfico combina las encuestas de intensión de voto. Actualizado al 21-12-2015.
 
 
 
