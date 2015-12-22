@@ -34,7 +34,7 @@ load("/Users/akantorb/Documents/proyectos independientes/resultados_pe/resultado
 
 ```
 
-El siguiente gráfico combina las encuestas de intensión de voto. Actualizado al `r I(k_fecha_mas_reciente)`.
+El siguiente gráfico combina las encuestas de intensión de voto. Actualizado el `r I(k_fecha_mas_reciente)`.
 
 
 
