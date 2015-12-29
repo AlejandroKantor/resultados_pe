@@ -23,13 +23,13 @@ breadcrumb: true
 
 
 ```{r,echo= FALSE,cache=FALSE,warning=FALSE,message=FALSE}
-rm(list=ls())
+
 gc_1 <- gc()
 library(rCharts)
 
 #setwd("/Users/akantorb/Documents/proyectos independientes/resultados_pe/resultados_pe/gh-pages")
 
-load("/Users/akantorb/Documents/proyectos independientes/resultados_pe/resultados_pe//data/encuestasPrimeraVueltaLong.RData")
+#load("/Users/akantorb/Documents/proyectos #independientes/resultados_pe/resultados_pe//data/encuestasPrimeraVueltaLong.RData")
 
 
 ```
