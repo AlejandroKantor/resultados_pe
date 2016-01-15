@@ -6,9 +6,15 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 AlejandroKantor: # replace this with your info
-  name: "AlejandroKantor"
+  name: "Alejandro Kantor"
   siterole: 
   uri: http://alejandrokantor.github.io/
   email:
   twitter: 
 # you can add more authors here
+JimenaRomero: # replace this with your info
+  name: "Jimena Romero"
+  siterole: 
+  uri: 
+  email:
+  twitter: 

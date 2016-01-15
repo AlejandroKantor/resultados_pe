@@ -1,5 +1,23 @@
 			<div id="page-meta" class="t30">
 				<p>
+					<!--  codigo nuevo para varios autores TODO
+					{% assign authorCount = page.authors | size %}
+					{% if authorCount == 0 %}
+					    No author
+					{% elsif authorCount == 1 %}
+					    {{ page.authors | first }}
+					{% else %}
+					    {% for author in page.authors %}
+					        {% if forloop.first %}
+					            {{ author }}
+					        {% elsif forloop.last %}
+					            and {{ author }}
+					        {% else %}
+					            , {{ author }}
+					        {% endif %}
+					    {% endfor %}
+					{% endif %} -->
+					
 					<!-- Look the author details up from the site config. -->
 					{% assign author = site.data.authors[page.author] %}
 					<!-- Output author details if some exist. -->
