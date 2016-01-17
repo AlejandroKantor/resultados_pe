@@ -43,7 +43,7 @@ $('.myIframe').css('height', $(window).height()+'px');
 
 ## Resumen
 
-Estimado al cierre del trabajo de campo de la encuesta más reciente: 14-01-2016.
+Estimado de »Resultados.pe« al cierre del trabajo de campo de la encuesta más reciente: 14-01-2016. 
 
 <iframe src="https://plot.ly/~AlejandroKantor/380.embed?link=False"  style="width: 100%" frameBorder="0" height="350" scrolling="no" seamless="seamless" 
 class="myIframe">
