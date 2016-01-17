@@ -22,9 +22,19 @@ breadcrumb: true
 ---
 
 
+```{r,echo= FALSE,cache=FALSE,warning=FALSE,message=FALSE}
+
+gc_1 <- gc()
+library(rCharts)
+
+#setwd("/Users/akantorb/Documents/proyectos independientes/resultados_pe/resultados_pe/gh-pages")
+
+#load("/Users/akantorb/Documents/proyectos #independientes/resultados_pe/resultados_pe//data/encuestasPrimeraVueltaLong.RData")
 
 
-El siguiente gráfico combina las encuestas de intensión de voto. Actualizado el 15-01-2016.
+```
+
+El siguiente gráfico combina las encuestas de intensión de voto. Actualizado el `r I(k_fecha_mas_reciente)`.
 
 
 
@@ -40,6 +50,21 @@ $('.myIframe').css('height', $(window).height()+'px');
 <sub>__Nota 1__: Coloque el cursor sobre los puntos y líneas para ver más información sobre las encuestas y estimaciones.</sub>
 <br><sub>__Nota 2__: Para esconder o mostrar los datos de un candidato presione sobre su nombre en la leyenda.</sub>
 <br><sub>__Nota 3__: Para ampliar una parte del gráfico, mantenga pulsado el botón izquierdo y seleccione el área. </sub>
+
+## Resumen
+
+Estimado al cierre del trabajo de campo de la encuesta más reciente: `r I(k_fecha_encuesta)`.
+
+<iframe src="https://plot.ly/~AlejandroKantor/380.embed?link=False"  style="width: 100%" frameBorder="0" height="350" scrolling="no" seamless="seamless" 
+class="myIframe">
+</iframe>
+
+<script type="text/javascript" language="javascript"> 
+$('.myIframe').css('height', $(window).height()+'px');
+</script>
+
+
+
 <!--<iframe height="600" id="igraph" scrolling="no" seamless="seamless" src="https://plot.ly/~AlejandroKantor/202.embed" width="800" frameBorder="0"></iframe> -->
 
 <!--
