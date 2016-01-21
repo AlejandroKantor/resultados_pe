@@ -34,7 +34,7 @@ library(rCharts)
 
 ```
 
-El siguiente gráfico combina las encuestas de intensión de voto. Actualizado el `r I(k_fecha_mas_reciente)`.
+El siguiente gráfico combina las encuestas de intención de voto. Actualizado el `r I(k_fecha_mas_reciente)`.
 
 
 
