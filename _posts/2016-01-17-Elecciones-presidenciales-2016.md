@@ -17,7 +17,7 @@ tags:
     - Elecciones presidenciales
     - 2016 
     - Perú
-show_meta: false
+show_meta: true
 breadcrumb: true
 ---
 
