@@ -9,7 +9,7 @@ header:
   caption: Imagen por DiNo/flickr
   caption_url: "https://www.flickr.com/photos/tafs/"
 image:
-    thumb:  graficoEncuestas2011_600x450.jpg
+    thumb:  graficoEncuestas_600x450.jpg
 #    homepage: graficoEncuestas.jpg
 categories:
     - "seguimiento"
