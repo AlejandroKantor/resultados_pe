@@ -1,0 +1,7 @@
+# Categories allowing for special characters
+
+- name: ANÁLISIS
+  slug: analisis
+- name: seguimiento
+  slug: seguimiento
+

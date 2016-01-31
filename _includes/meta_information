@@ -19,8 +19,17 @@
 				{% if page.date %}
 				<time class="icon-calendar pr20" datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished"> {{ page.date | date: "%d-%m-%Y" }}</time>
 				{% endif %}
-
-				{% if page.categories %}<span class="icon-archive pr20"> {{ page.categories | join: ' · ' | upcase }}{% endif %}</span>
+<!--seccion modificada  -->
+				{% if page.categories %}<span class="icon-archive pr20"> 
+				{% for category in site.data.categories %}
+				  {% if page.categories[0] == category.slug %}
+					{{ category.name | upcase }}
+				  {% endif %}
+				{% endfor %}
+				{% endif %}
+<!--fin seccion modificada  -->				
+				<!-- original {% if page.categories %}<span class="icon-archive pr20">  {{ page.categories | join: ' · ' | upcase }}{% endif %}-->
+				</span>
 				<br />
 				<span class="pr20">{% for tag in page.tags %}<span class="icon-price-tag pr10"> {{tag}}</span> {% endfor %}</span>
 			</p>

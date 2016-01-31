@@ -12,7 +12,7 @@ image:
     thumb:  graficoEncuestas2011_600x450.jpg
 #    homepage: graficoEncuestas.jpg
 categories:
-    - "ANÁLISIS"
+    - analisis
 tags:
     - Elecciones presidenciales
     - 2011 
@@ -22,6 +22,7 @@ breadcrumb: false
 authors: 
     - AlejandroKantor
     - JimenaRomero
+ blogger_orig_url: http://resultados.pe/anÁlisis/Elecciones-presidenciales-2011/
 ---
 
 La evolución de la intención de voto de la primera vuelta del 2011 experimentó movimientos que sorprendieron a muchos. No se puede afirmar que en esta contienda electoral ocurrirá lo mismo que en la anterior, pero sí nos da luces a lo que es posible. 
