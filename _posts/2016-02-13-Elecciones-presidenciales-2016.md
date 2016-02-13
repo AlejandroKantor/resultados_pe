@@ -24,7 +24,7 @@ breadcrumb: true
 
 
 
-El siguiente gráfico combina las encuestas de intención de voto. Actualizado el 11-02-2016.
+El siguiente gráfico combina las encuestas de intención de voto. Actualizado el 13-02-2016.
 
 
 
