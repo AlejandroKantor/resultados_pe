@@ -24,7 +24,7 @@ breadcrumb: true
 
 
 
-El siguiente gráfico combina las encuestas de intención de voto. Actualizado el 22-03-2016.
+El siguiente gráfico combina las encuestas de intención de voto. Actualizado el 28-03-2016.
 
 
 
@@ -43,7 +43,7 @@ $('.myIframe').css('height', $(window).height()+'px');
 
 ## Resumen
 
-Estimado de »Resultados.pe« al cierre del trabajo de campo de la encuesta más reciente: 20-03-2016. 
+Estimado de »Resultados.pe« al cierre del trabajo de campo de la encuesta más reciente: 24-03-2016. 
 
 <iframe src="https://plot.ly/~AlejandroKantor/380.embed?link=False"  style="width: 100%" frameBorder="0" height="350" scrolling="no" seamless="seamless" 
 class="myIframe">
