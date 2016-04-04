@@ -21,9 +21,9 @@ show_meta: true
 breadcrumb: true
 ---
 
+No estaremos mostrando los resultados de las encuestas esta semana conforme al Artículo 191 de la N 26859 [Ley Orgánica de Elecciones][1], "La publicación o difusión de encuestas y proyecciones de cualquier naturaleza sobre los resultados de las elecciones a través de los medios de comunicación puede efectuarse hasta el domingo anterior al día de las elecciones."
 
-
-
+<!-- 
 El siguiente gráfico combina las encuestas de intención de voto. Actualizado el 03-04-2016.
 
 
@@ -53,7 +53,7 @@ class="myIframe">
 $('.myIframe').css('height', $(window).height()+'px');
 </script>
 
-
+-->
 
 <!--<iframe height="600" id="igraph" scrolling="no" seamless="seamless" src="https://plot.ly/~AlejandroKantor/202.embed" width="800" frameBorder="0"></iframe> -->
 
@@ -64,3 +64,5 @@ $('.myIframe').css('height', $(window).height()+'px');
 #js_t_1$show('iframe', cdn = TRUE)
 #```
 -->
+
+[1]: http://phlow.de/
