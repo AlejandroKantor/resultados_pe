@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Lecciones aprendidas del 2011"
-subheadline:  "Primera Vuelta Elecciones Presidenciales 2011"
+subheadline:  "Primera vuelta elecciones presidenciales 2011"
 teaser: "Lo aprendido de la evolución histórica de las encuestas."
 description: "Lo aprendido de la evolución histórica de las encuestas en primera vuelta."
 header:
