@@ -43,7 +43,7 @@ $('.myIframe').css('height', $(window).height()+'px');
 
 ## Resumen
 
-Último estimado de »Resultados.pe« a 10-04-2016 y resultado oficial de las elecciones. 
+Último estimado de »Resultados.pe« a 31-03-2016 y resultado oficial de las elecciones. 
 
 <iframe src="https://plot.ly/~AlejandroKantor/380.embed?link=False"  style="width: 100%" frameBorder="0" height="350" scrolling="no" seamless="seamless" 
 class="myIframe">
