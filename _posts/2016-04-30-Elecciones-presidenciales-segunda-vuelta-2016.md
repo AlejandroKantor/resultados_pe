@@ -25,7 +25,7 @@ breadcrumb: true
 
 
 
-El siguiente gráfico combina las encuestas de intención de voto. Actualizado el `r I(k_fecha_mas_reciente)`.
+El siguiente gráfico combina las encuestas de intención de voto. Actualizado el 30-04-2016.
 
 
 

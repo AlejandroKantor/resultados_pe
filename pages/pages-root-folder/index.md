@@ -10,10 +10,15 @@ header:
   caption: Imagen por DiNo/flickr
   caption_url: "https://www.flickr.com/photos/tafs/"
 widget1:
-  title: "Elecciones Presidenciales Perú 2016"
+  title: "Segunda vuelta elecciones Perú 2016"
+  url: '/seguimiento/Elecciones-presidenciales-segunda-vuelta-2016/'
+  image: SegundaVuelta2016_600x450.jpg
+  text: "Presentamos los resultados de las encuestas de la segunda vuelta."
+widget2:
+  title: "Primera vuelta elecciones Perú 2016"
   url: '/seguimiento/Elecciones-presidenciales-2016/'
   image: graficoEncuestas_600x450.jpg
-  text: "Presentamos los resultados de las encuestas de las elecciones presidenciales Perú 2016."
+  text: "Presentamos los resultados de las encuestas de la primera vuelta."
 
 
 permalink: /index.html
