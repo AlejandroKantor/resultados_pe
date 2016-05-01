@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  "Elecciones Presidenciales 2016"
+title:  "Primera vuelta elecciones 2016"
 subheadline:  "Resultados de las encuestas"
-teaser: "Presentamos los resultados de las encuestas de las elecciones presidenciales Perú 2016."
-description: "Presentamos los resultados de las encuestas de las elecciones presidenciales Perú 2016."
+teaser: "Presentamos los resultados de las encuestas de la primera vuelta de las elecciones presidenciales Perú 2016."
+description: "Presentamos los resultados de las encuestas de la primera vuelta de las elecciones presidenciales Perú 2016."
 header:
   image_fullwidth: header_palacio_gobierno.jpg
   caption: Imagen por DiNo/flickr
