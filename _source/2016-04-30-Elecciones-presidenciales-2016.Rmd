@@ -53,7 +53,7 @@ $('.myIframe').css('height', $(window).height()+'px');
 
 ## Resumen
 
-Estimado de »Resultados.pe« al cierre del trabajo de campo de la encuesta más reciente: `r I(k_fecha_encuesta)`. 
+Último estimado de »Resultados.pe« a `r I(k_fecha_encuesta)` y resultado oficial de las elecciones. 
 
 <iframe src="https://plot.ly/~AlejandroKantor/380.embed?link=False"  style="width: 100%" frameBorder="0" height="350" scrolling="no" seamless="seamless" 
 class="myIframe">
