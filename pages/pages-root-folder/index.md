@@ -10,15 +10,20 @@ header:
   caption: Imagen por DiNo/flickr
   caption_url: "https://www.flickr.com/photos/tafs/"
 widget1:
+  title: "Ingreso por carrera"
+  url: '/analisis/Ingreso-por-carrera'
+  image: IngresoPorCarrera_600x450.jpg
+  text: "Visualizando los ingresos y costos de las carreras en universidades e institutos de educación superior."
+widget2:
   title: "Segunda vuelta elecciones Perú 2016"
   url: '/seguimiento/Elecciones-presidenciales-segunda-vuelta-2016/'
   image: SegundaVuelta2016_600x450.jpg
-  text: "Presentamos los resultados de las encuestas de la segunda vuelta."
-widget2:
+  text: "Los resultados de las encuestas de la segunda vuelta."
+widget3:
   title: "Primera vuelta elecciones Perú 2016"
   url: '/seguimiento/Elecciones-presidenciales-2016/'
   image: graficoEncuestas_600x450.jpg
-  text: "Presentamos los resultados de las encuestas de la primera vuelta."
+  text: "Los resultados de las encuestas de la primera vuelta."
 
 
 permalink: /index.html
