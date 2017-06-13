@@ -20,7 +20,7 @@ breadcrumb: true
 
  Explora los datos de [Ponte en Carrera](http://ponteencarrera.pe), portal del gobierno peruano, filtrando por costo, carrera, ubicación, institución y más. 
  
- **NOTA:** El ingreso mensual promedio solo incluye a trabajadores de 18 a 29 años. 
+ **Nota:** El ingreso mensual promedio solo incluye a trabajadores de 18 a 29 años. 
 
 <br>
 
