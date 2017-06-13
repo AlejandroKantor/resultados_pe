@@ -19,6 +19,8 @@ breadcrumb: true
 --- 
 
  Explora los datos de [Ponte en Carrera](http://ponteencarrera.pe), portal del gobierno peruano, filtrando por costo, carrera, ubicación, institución y más. 
+ 
+ **NOTA:** El ingreso mensual promedio promedio solo incluye a trabajadores de 18 a 29 años. 
 
 <br>
 
@@ -35,7 +37,7 @@ $('.myIframe').css('height', $(window).height()+'px');
 
 Cabe mencionar que los datos tienen algunas limitaciones. No todas las carreras tienen información de costo y de ingreso promedio de sus egresados. 
 
-El gobierno podría proporcionar mayor información sobre el ingreso de los egresados. 
-Actualmente el ingreso promedio de los egresados es calculado al tomar el promedio de los ingresos de los "trabajadores de 18 a 29 años" excluyendo a los "jóvenes con remuneraciones mayores al percentil 98 según familia de carreras". 
+El gobierno podría proporcionar mayor información sobre los ingreso que nos permitiría hacer análisis adicional. 
+Actualmente el ingreso es calculado al tomar el promedio de los ingresos de los "trabajadores de 18 a 29 años" excluyendo a los "jóvenes con remuneraciones mayores al percentil 98 según familia de carreras". 
 
-Sería mejor contar con información adicional. En particular, con la información anonimizada individual de cada trabajador. De no ser posible, ayudaría publicar el error estándar  y la media de los ingresos mensuales de cada carrera en cada institución.
+Esto no nos permite ver la variación de los ingresos dentro de una carrera. Idealmente, el gobierno proporcionaría información anonimizada individual de cada trabajador. De no ser posible, contar con la desviación estándar y la media de los ingresos mensuales de los egresados nos permitiría entender mejor la variación del ingreso.
