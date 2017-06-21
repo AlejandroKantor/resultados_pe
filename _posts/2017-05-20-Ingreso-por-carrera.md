@@ -24,7 +24,7 @@ breadcrumb: true
 
 <br>
 
-<iframe src="http://ec2-54-201-33-200.us-west-2.compute.amazonaws.com:3838/SalaryByProgram/"  style="width: 100%" frameBorder="0" height="900" scrolling="yes" seamless="seamless" 
+<iframe src="http://ec2-54-202-218-166.us-west-2.compute.amazonaws.com:3838/SalaryByProgram/"  style="width: 100%" frameBorder="0" height="900" scrolling="yes" seamless="seamless" 
 class="myIframe">
 </iframe>
 
